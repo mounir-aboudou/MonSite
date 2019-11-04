@@ -13,7 +13,9 @@
 
         <h1 class="display-4 text-center text-info">Découverte de GITHUB</h1><hr>
 
-        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ipsa itaque, dicta suscipit sint non fuga porro alias quidem pariatur soluta deleniti quis qui quam repellat vel quas. Ipsa harum iste provident fugiat hic maiores optio voluptate ullam aliquam id doloribus officiis suscipit reiciendis tenetur et delectus laborum, cumque accusantium voluptatem asperiores, numquam in alias? Minus dolor illum sint maxime minima. Libero ducimus vel placeat, excepturi nesciunt distinctio voluptate hic vero molestias officia assumenda. Voluptates, obcaecati! Iure praesentium nihil delectus odit corporis iste, cum sequi reiciendis nam sint velit eaque voluptatibus nemo commodi porro sapiente nesciunt doloremque earum sit excepturi?</p>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ipsa itaque, dicta suscipit sint non fuga porro alias quidem pariatur soluta deleniti quis qui quam repellat vel quas. Ipsa harum iste provident fugiat hic maiores optio voluptate ullam aliquam id doloribus officiis suscipit reiciendis tenetur et delectus laborum, cumque accusantium voluptatem asperiores, numquam in alias? Minus dolor illum sint maxime minima. Libero ducimus vel placeat, excepturi nesciunt distinctio voluptate hic vero molestias officia assumenda. Voluptates, obcaecati! Iure praesentium nihil delectus odit corporis iste, cum sequi reiciendis nam sint velit eaque voluptatibus nemo commodi porro sapiente nesciunt doloremque earum sit excepturi?</p><hr>
+
+        <h2 class="text-success text-center">Utilisation de GIT / GITHUB</h2>
     
     </div>
     
